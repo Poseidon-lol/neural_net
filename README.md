@@ -1,6 +1,6 @@
 # neural_net
 
-Hier dreht sich alles rund um das Buch "Neuronale Netze selbst programmieren" von Tariq Rashid.
+Hier dreht sich alles rund um das Buch "Neuronale Netze selbst programmieren" von Tariq Rashid. (GitHub: https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
 
 Datensatz für MNIST:
 
